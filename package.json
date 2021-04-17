@@ -1,0 +1,12 @@
+{
+  "name": "tree-sitter-cypher",
+  "version": "1.0.0",
+  "description": "treesitter parser for cypher",
+  "main": "bindings/node",
+  "scripts": {},
+  "author": "Kiyan Yazdani",
+  "license": "MIT",
+  "devDependencies": {
+    "tree-sitter-cli": "^0.19.4"
+  }
+}
